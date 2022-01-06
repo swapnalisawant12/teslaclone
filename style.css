@@ -1,0 +1,176 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+.Hero{
+    height: 100vh;
+    background-image: url("./images/model-s.jpg");
+    background-size: cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.Upper{
+    margin-top:5rem;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+
+
+
+}
+.lower{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin-bottom: 5rem;
+
+}
+.btn1{
+    background-color: black ;
+   color :white;
+   margin: 1rem;
+   padding: 1rem;
+   width: 15rem;
+   border-radius:20px;
+   font: size 16px;
+   
+
+}
+.btn2{
+    background-color: pink ;
+   color :black;
+   padding: 1rem;
+   width: 15rem;
+   border-radius:20px;
+   font-size :16px;
+
+
+}
+h2{
+font-size:30px;
+}
+*{
+    margin:0 ;
+    padding: 0;
+}
+.Hero1{
+    height: 100vh;
+    background-image: url("./images/model-x.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+
+
+
+h2{
+font-size:30px;
+}
+*{
+    margin:0 ;
+    padding: 0;
+}
+.Hero2{
+    height: 100vh;
+    background-image: url("./images/model-y.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+
+
+
+h2{
+font-size:30px;
+}
+
+*{
+    margin:0 ;
+    padding: 0;
+}
+.Hero3{
+    height: 100vh;
+    background-image: url("./images/model-3.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+
+h2{
+font-size:30px;
+}
+*{
+    margin:0 ;
+    padding: 0;
+}
+.Hero4{
+    height: 100vh;
+    background-image: url("./images/solar-panel.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+.Hero5{
+    height: 100vh;
+    background-image: url("./images/solar-roof.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+
+.Hero6{
+    height: 100vh;
+    background-image: url("./images/accessories.jpg");
+    background-size:cover;
+    background-position: center;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+nav {
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-left: 1rem;
+    font-size: 22px;
+    font-weight: 600;
+
+
+}
+
